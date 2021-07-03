@@ -3,7 +3,7 @@
     "publisher": "ProgrammerShri",
     "displayName": "C/C++ Snippets",
     "description": "Simple And Fast code snippets for C and C++",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "engines": {
 		"vscode": "^0.10.1"
 	},
@@ -28,7 +28,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ProgrammerShri/C-C-Code-Snippets-For-VS-Code-Extension-Marketplace.git"
+        "url": "https://github.com/ProgrammerShri/C-Cpp-Code-Snippets-For-VS-Code-Extension-Marketplace.git"
     },
     "icon": "images/C_Cpp_Icon.png",
     "license": "Check in License in the root folder"
