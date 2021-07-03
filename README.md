@@ -4,11 +4,11 @@ This extension for Visual Studio Code adds snippets for C/C++.
 
 ## Usage
 
-Type a part of the keywords in snippet e.g., "for" and press enter.
+Type a part of the keywords in snippet e.g., "cppf" and press enter.
 
 ```cppf
-for // Creates a Snippets
-Like :
+// Creates a Snippets
+Like : type cppf
 
 #include <bits/stdc++.h>
 using namespace std;
