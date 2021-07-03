@@ -1,0 +1,35 @@
+{
+    "name": "cppsnippets",
+    "publisher": "ProgrammerShri",
+    "displayName": "C/C++ Snippets",
+    "description": "Simple And Fast code snippets for C and C++",
+    "version": "1.0.0",
+    "engines": {
+		"vscode": "^0.10.1"
+	},
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+		"snippets": [
+			{
+			"language": "c",
+			"path": "./snippets/c.json"
+			},
+			{
+			"language": "cpp",
+			"path": "./snippets/cpp.json"
+			}
+		]
+	},
+    "galleryBanner": { 
+        "color": "#E6E0EA", 
+        "theme": "light" 
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ProgrammerShri/C-C-Code-Snippets-For-VS-Code-Extension-Marketplace.git"
+    },
+    "icon": "images/C_Cpp_Icon.png",
+    "license": "Check in License in the root folder"
+}
