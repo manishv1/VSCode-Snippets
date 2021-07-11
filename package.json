@@ -3,7 +3,7 @@
     "publisher": "ProgrammerShri",
     "displayName": "C/C++ Snippets",
     "description": "Simple And Fast code snippets for C and C++",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "engines": {
         "vscode": "^0.10.1"
     },
