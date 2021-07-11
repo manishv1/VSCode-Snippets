@@ -2,7 +2,7 @@
     "name": "cppsnippets",
     "publisher": "ProgrammerShri",
     "displayName": "C/C++ Snippets",
-    "description": "Simple And Fast code snippets for C and C++",
+    "description": " Simple And Fast code snippets for C and C++ ",
     "version": "1.0.6",
     "engines": {
         "vscode": "^0.10.1"
