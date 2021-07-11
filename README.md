@@ -20,6 +20,12 @@ int main() {
 }
 ```
 
+## How To USE This Snippet
+
+Check Out This Video : https://www.youtube.com/watch?v=fZsXKVZzf8w
+
+
+
 Alternatively, one can also just press <kbd>Ctrl</kbd> + <kbd>Space</kbd> (works on Windows, Linux, or Mac) to access the available snippets in the editor.
 
 ## Installation
